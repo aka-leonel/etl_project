@@ -1,0 +1,13 @@
+# Manipulación de datos
+pandas
+
+# Conexión a Bases de Datos
+sqlalchemy
+psycopg2-binary  # Si usas PostgreSQL
+# pymysql        # Si usas MySQL
+
+# Gestión de configuración
+python-dotenv
+
+# Extracción (si descargas de una URL o API)
+requests

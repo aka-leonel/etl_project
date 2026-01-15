@@ -1,0 +1,17 @@
+# --- Datos y temporales ---
+data/
+logs/*.log
+__pycache__/
+*.py[cod]
+
+# --- Configuración y Secretos ---
+.env
+config/settings.local.yaml
+
+# --- Entornos Virtuales ---
+venv/
+env/
+.venv/
+
+# --- Otros ---
+.DS_Store
