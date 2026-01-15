@@ -1,0 +1,13 @@
+# Resumen del flujo de trabajo diario:
+
+Cada vez que vuelvas a trabajar en el proyecto:
+
+1 En consola abrís la carpeta.
+
+2 Activás el venv en consola :source venv/bin/activate
+
+3 Codeás.
+
+4 Cuando terminás, podés cerrarlo con el comando "deactivate" o simplemente cerrando la terminal.
+
+*No olvidar hacer commit del trabajo realizado.
